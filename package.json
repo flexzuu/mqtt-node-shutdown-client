@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/flexzuu/mqtt-node-shutdown-client/issues"
   },
-  "homepage": "https://github.com/flexzuu/mqtt-node-shutdown-client#readme"
+  "homepage": "https://github.com/flexzuu/mqtt-node-shutdown-client#readme",
+  "dependencies": {
+    "shelljs": "^0.5.3"
+  }
 }
